@@ -4,7 +4,7 @@
 
 ;; Author: mechairoi
 ;; Version: 0.1
-;; URL: https://github.com/mechairoi/anything-git-ls-files
+;; URL: https://github.com/mechairoi/anything-git-grep
 ;; Package-Requires: ((anything "1.3.9"))
 ;; Keywords: anything, git
 
